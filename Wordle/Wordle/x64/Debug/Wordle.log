@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\andyg\source\repos\Wordle\Wordle\main.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Wordle.vcxproj -> C:\Users\andyg\source\repos\Wordle\Wordle\x64\Debug\Wordle.exe
